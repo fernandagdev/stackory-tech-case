@@ -1,5 +1,9 @@
 # 🚀 Stackory Tech — Production Website Engineering Case Study
 
+## 📌 About This Repository
+This repository documents a real production website engineering workflow, including continuous optimization, debugging, performance tuning and SEO architecture improvements.
+
+
 ![Status](https://img.shields.io/badge/status-production-success)
 ![Environment](https://img.shields.io/badge/environment-live-blue)
 ![Maintenance](https://img.shields.io/badge/maintained-yes-brightgreen)
