@@ -1,9 +1,15 @@
 # 🚀 Stackory Tech — Production Website Engineering Case Study
 
-> Live production engineering case study demonstrating real-world frontend optimization, performance tuning and SEO architecture decisions.
+> Production Frontend Engineer working on a live AI-focused platform with continuous optimization, performance tuning and SEO architecture decisions.
 
 ## 🌐 Live Production
 https://stackorytech.com
+
+## 📊 Key Outcomes
+- Production website handling real user traffic
+- Continuous deployment workflow
+- SEO-driven content platform
+- Performance-first frontend architecture
 
 ## Engineering Scope
 
