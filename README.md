@@ -1,11 +1,12 @@
 # 🚀 Stackory Tech — Real Production Website Case Study
 
-🌐 **Live Website**  
-https://stackorytech.com
+🌐 **Live Website**
+
+👉 **[Visit StackoryTech.com](https://stackorytech.com)**
 
 ---
 
-## 🧠 Project Overview
+## 📌 Project Overview
 
 Stackory Tech is a real production website focused on Artificial Intelligence, productivity systems and digital tools.
 
@@ -13,28 +14,44 @@ This project demonstrates real-world frontend debugging, responsive design optim
 
 ---
 
-## 👩‍💻 My Role
+👩‍💻 My Role
 
-- Website architecture design
-- Frontend debugging & layout fixes
-- Responsive design optimization
-- WordPress customization
-- UI/UX improvements
-- SEO structure implementation (RankMath)
+- Designed website architecture and content structure
+- Implemented responsive layout adjustments
+- Performed frontend debugging and UI refinements
+- Optimized performance and SEO structure
+- Managed real production deployment and updates
 
 ---
 
-## 🛠 Tech Stack
+## ⚙️ Tech Stack
 
-- WordPress
-- HTML5
-- CSS3
-- JavaScript
+- WordPress (Gutenberg)
+- HTML / CSS customization
 - Responsive Design
-- RankMath SEO
-- Git & GitHub
-- Linux / Termux Development Environment
+- Frontend Debugging
+- UI/UX Optimization
+- SEO Optimization (Rank Math)
+- Performance Optimization
 
 ---
 
-## ⚡ Real Problems
+## 📈 Project Impact
+
+- Live production website deployed
+- Mobile-first responsive experience
+- SEO structured content architecture
+- Continuous content publishing workflow
+
+---
+
+## ⚡ Real Problems Solved
+
+- Fixed mobile layout breaking on homepage grid sections
+- Improved content hierarchy and visual spacing
+- Optimized responsive behavior across devices
+- Implemented SEO structure using RankMath
+- Reduced visual clutter and improved readability
+- Converted blog layout into production-ready structure
+
+This repository represents continuous real-world iteration instead of a static tutorial project.
