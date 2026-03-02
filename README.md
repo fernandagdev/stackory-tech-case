@@ -1,5 +1,22 @@
 # 🚀 Stackory Tech — Production Website Engineering Case Study
 
+> Production Frontend Engineer focused on real-world optimization, performance and SEO architecture.
+
+## Engineering Scope
+
+Production Frontend Engineering focused on real-world debugging,
+performance optimization, responsive architecture and SEO-driven development.
+
+This project represents engineering work performed on a live production environment
+with real users, real traffic and continuous deployment iterations.
+
+### 🧠 Real Engineering Context
+
+This repository documents continuous optimization of a live production website, including frontend debugging, UX refinement, performance tuning and SEO architecture decisions.
+
+## 🎯 Engineering Focus
+Frontend Engineering • SEO Architecture • Performance Optimization • Production Debugging
+
 ## 📌 About This Repository
 This repository documents a real production website engineering workflow, including continuous optimization, debugging, performance tuning and SEO architecture improvements.
 
@@ -14,6 +31,16 @@ This repository documents a real production website engineering workflow, includ
 🌐 **Live Production Website**
 👉 https://stackorytech.com
 
+---
+
+## 🧩 Engineering Challenges
+
+- Mobile layout instability across devices
+- Content hierarchy affecting readability
+- Performance bottlenecks during navigation
+- SEO structure not optimized for scalability
+
+---
 ## 🧠 Engineering Highlights
 
 - Production website running with continuous updates
@@ -101,6 +128,34 @@ This repository represents continuous real-world iteration instead of a static t
 
 ---
 
+## 📈 Engineering Impact
+
+- Converted content blog into scalable platform
+- Established structured SEO publishing workflow
+- Improved UX consistency across mobile devices
+- Enabled continuous performance optimization cycle
+
+---
+
 ## 🔄 Development Approach
 
 This project follows iterative real-world development, focusing on continuous improvement, performance optimization and production stability rather than one-time delivery.
+
+---
+
+## 🧠 Engineering Philosophy
+
+Focus on solving real production problems instead of building isolated tutorial projects.
+
+Engineering decisions prioritize maintainability, performance,
+user experience and long-term scalability.
+
+---
+
+## 👩‍💻 Role & Responsibilities
+
+- Sole engineer responsible for frontend optimization and site evolution
+- Continuous production debugging and UI refinement
+- SEO architecture implementation and monitoring
+- Performance tuning and responsive behavior improvements
+- Production deployment management and iterative releases
