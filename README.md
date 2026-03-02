@@ -12,11 +12,11 @@ https://stackorytech.com
 - SEO-driven content platform
 - Performance-first frontend architecture
 
-  ## 🧭 Project Snapshot
-- 🌐 Live AI-focused platform
-- ⚡ Performance-first frontend
-- 📈 SEO-driven architecture
-- 🔄 Continuous production iteration
+## 🧩 My Role
+- Sole engineer responsible for frontend evolution
+- Continuous production debugging
+- Performance and SEO architecture decisions
+- Deployment and iterative releases
 
 ## Engineering Scope
 
