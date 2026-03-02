@@ -5,7 +5,7 @@
 ![Maintenance](https://img.shields.io/badge/maintained-yes-brightgreen)
 ![Focus](https://img.shields.io/badge/focus-frontend%20engineering-orange)
 
-> Real production engineering case study focused on debugging, performance and continuous deployment.
+> Real production website engineering case study demonstrating frontend optimization, SEO architecture and continuous deployment workflow.
 
 🌐 **Live Production Website**
 👉 https://stackorytech.com
