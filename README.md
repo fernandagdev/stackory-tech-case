@@ -1,12 +1,21 @@
 # 🚀 Stackory Tech — Production Website Engineering Case Study
 
-![Status](https://img.shields.io/badge/status-active-success)
-![Production](https://img.shields.io/badge/environment-production-blue)
-![Maintained](https://img.shields.io/badge/maintained-yes-green)
+![Status](https://img.shields.io/badge/status-production-success)
+![Environment](https://img.shields.io/badge/environment-live-blue)
+![Maintenance](https://img.shields.io/badge/maintained-yes-brightgreen)
+![Focus](https://img.shields.io/badge/focus-frontend%20engineering-orange)
 
 > Production website | SEO architecture | Frontend optimization | Continuous deployment
 
 🌐 **Live Website**
+
+## 🧠 Engineering Highlights
+
+- Production website running with continuous updates
+- Real user traffic environment
+- SEO architecture designed for scalability
+- Performance-first frontend engineering
+- Continuous debugging and optimization workflow
 
 ## 📸 Production Preview
 
@@ -46,12 +55,19 @@ Engineering Contributions
 
 ---
 
-## 📈 Project Impact
+## 📊 Before / After Impact
 
-- Live production website deployed
-- Mobile-first responsive experience
-- SEO structured content architecture
-- Continuous content publishing workflow
+**Before**
+- Mobile layout instability
+- Inconsistent spacing
+- Weak content hierarchy
+- Performance bottlenecks
+
+**After**
+- Stable responsive layout
+- Improved UX structure
+- Faster loading performance
+- SEO-ready content system
 
 ---
 
