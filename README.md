@@ -20,7 +20,7 @@
 
 ## 📸 Production Preview
 
-![Stackory Tech Preview](preview.png)
+![Stackory Tech Homepage](stackory-tech-homepage-preview.png)
 
 👉 **[Visit StackoryTech.com](https://stackorytech.com)**
 
