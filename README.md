@@ -1,5 +1,9 @@
 # 🚀 Stackory Tech — Production Website Engineering Case Study
 
+![Status](https://img.shields.io/badge/status-active-success)
+![Production](https://img.shields.io/badge/environment-production-blue)
+![Maintained](https://img.shields.io/badge/maintained-yes-green)
+
 > Production website | SEO architecture | Frontend optimization | Continuous deployment
 
 🌐 **Live Website**
@@ -20,7 +24,7 @@ This project demonstrates real-world frontend debugging, responsive design optim
 
 ---
 
-👩‍💻 My Role
+Engineering Contributions
 
 - Designed website architecture and content structure
 - Implemented responsive layout adjustments
@@ -70,3 +74,9 @@ This repository represents continuous real-world iteration instead of a static t
 - Increased content readability and hierarchy
 - SEO-ready publishing workflow
 - Production-ready blog structure
+
+---
+
+## 🔄 Development Approach
+
+This project follows iterative real-world development, focusing on continuous improvement, performance optimization and production stability rather than one-time delivery.
