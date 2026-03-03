@@ -175,3 +175,18 @@ user experience and long-term scalability.
 - SEO architecture implementation and monitoring
 - Performance tuning and responsive behavior improvements
 - Production deployment management and iterative releases
+  
+---
+
+  ## Hire Me for Similar Projects
+
+I help businesses fix real production issues including:
+
+- Broken mobile layouts
+- SEO structure problems
+- Slow WordPress websites
+- Content hierarchy restructuring
+- Performance bottlenecks
+
+Available for remote contract work.
+Contact: your email
